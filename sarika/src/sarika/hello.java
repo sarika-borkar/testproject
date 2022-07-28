@@ -9,7 +9,7 @@ public class hello {
 		// TODO Auto-generated method stub
 		System.setProperty("webdriver.chrome.driver","C:\\Users\\aditya\\Downloads\\chromedriver_win32\\chromedriver.exe");
 		WebDriver driver=new ChromeDriver();
-		driver.get("https://www.facebook.com/signup");
+		driver.get("https://www.facebook.com");
 	}
 
 }
